@@ -1,0 +1,11 @@
+{
+  "name": "geoterra-auto",
+  "version": "1.0.0",
+  "description": "Report generator tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulises Alcaraz",
+  "license": "MIT"
+}
